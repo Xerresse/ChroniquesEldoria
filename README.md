@@ -2,7 +2,8 @@
 
 Un RPG solo en pixel art, dans un Japon de légende, pour **Windows, Mac et Linux** : trois classes,
 combats au tour par tour, villages à visiter, forêts, mines, crypte et montagne sacrée à explorer,
-forge, panoplies, monstres d'élite, bestiaire et succès. En français et en anglais.
+forge, panoplies, monstres d'élite, bestiaire et succès, cycle jour et nuit avec ses yokai, météo
+et pêche. Se joue au clavier, à la souris ou à la manette. En français et en anglais.
 
 ## Jouer
 
